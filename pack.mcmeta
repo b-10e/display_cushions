@@ -1,0 +1,8 @@
+{
+  "id": "display-cushions",
+  "pack": {
+    "description": "Display Items on Cushions",
+    "min_format": 121,
+    "max_format": 121
+  }
+}

@@ -1,4 +1,5 @@
 # Display Cushions
+**For Minecraft 26.3+**
 
 This datapack allows the player to display items on cushions.
 

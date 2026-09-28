@@ -4,6 +4,8 @@ This datapack allows the player to display items on cushions.
 
 Items displayed on cushions cannot be picked up by players or mobs and will not despawn.
 
+<img width="400" height="225" alt="2026-09-28 14-40-52" src="https://github.com/user-attachments/assets/1ef5279b-d449-48ab-9110-6c29166c948e" />
+
 ## How to use
 To display an item on a cushion, throw an item on an empty cushion.
 

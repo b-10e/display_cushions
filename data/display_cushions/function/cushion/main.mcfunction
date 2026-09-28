@@ -1,5 +1,5 @@
 # handle passengers, if any
-execute on passengers run return run function display_cushions:cushion/reset_pickup_delay
+execute on passengers run return run function display_cushions:cushion/reset_item_timers
 
 # otherwise, display any new items on the cushion
 tag @s add display_cushions.this
